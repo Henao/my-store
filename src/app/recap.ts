@@ -16,6 +16,9 @@ suma(2, 3);
 //     this.lastName = lastName;
 //   }
 // }
+
+
+//Aquí me ahorro la declaración y la asignación
 class Person{
     constructor(public age: number, public lastName: string){
         
